@@ -30,9 +30,8 @@ Edit
 
 ## 📌 How to Use  
 1.Access the model: https://colab.research.google.com/drive/1hs50za7hjDE__s3cjRDLjfKCFJqLOHLi?usp=sharing 
-Open the Google Colab Notebook.
 
-Upload car_purchase_data.csv if required.
+Open the Google Colab Notebook.
 
 Run the notebook step by step to train the model and visualize results.
 
