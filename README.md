@@ -46,7 +46,9 @@ Confusion matrix provides insight into model performance.
 
 Plots show decision boundaries for training and test datasets.
 
-## Contact 📧
+📜 License
+This project is open-source. Feel free to modify and improve it!
 
+## Contact 📧
 * Anshu Kundu
 * anshu.kundu2004@gmail.com
