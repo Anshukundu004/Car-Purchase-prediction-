@@ -20,8 +20,11 @@ This project applies **Logistic Regression** to predict whether a person will pu
 
 ## 📂 Project Structure  
 📦 Logistic_Regression
+
 ┣ 📜 car_purchase_data.csv (Dataset)
+
 ┣ 📜 logistic_regression.ipynb (Google Colab Notebook)
+
 ┣ 📜 README.md (This file)
 
 bash
@@ -36,11 +39,13 @@ Open the Google Colab Notebook.
 Run the notebook step by step to train the model and visualize results.
 
 📊 Results
+
 Achieved high accuracy in predicting car purchases based on age and salary.
 
 Confusion matrix provides insight into model performance.
 
 Plots show decision boundaries for training and test datasets.
+
 
 📜 License
 This project is open-source. Feel free to modify and improve it!
