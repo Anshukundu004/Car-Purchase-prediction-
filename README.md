@@ -27,9 +27,7 @@ This project applies **Logistic Regression** to predict whether a person will pu
 
 ┣ 📜 README.md (This file)
 
-bash
-Copy
-Edit
+
 
 ## 📌 How to Use  
 1.Access the model: https://colab.research.google.com/drive/1hs50za7hjDE__s3cjRDLjfKCFJqLOHLi?usp=sharing 
