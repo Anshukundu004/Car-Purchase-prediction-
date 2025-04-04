@@ -3,8 +3,7 @@
 ## 📌 Project Overview  
 This project applies **Logistic Regression** to predict whether a person will purchase a car based on their **age and salary**. The dataset is preprocessed, split into training and test sets, and then used to train a **Logistic Regression model**.  
 
-## LINK
-https://colab.research.google.com/drive/1hs50za7hjDE__s3cjRDLjfKCFJqLOHLi?usp=sharing 
+
 
 ## 🚀 Features  
 - Uses **Logistic Regression** for binary classification  
@@ -30,9 +29,7 @@ Copy
 Edit
 
 ## 📌 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+1.Access the model: https://colab.research.google.com/drive/1hs50za7hjDE__s3cjRDLjfKCFJqLOHLi?usp=sharing 
 Open the Google Colab Notebook.
 
 Upload car_purchase_data.csv if required.
