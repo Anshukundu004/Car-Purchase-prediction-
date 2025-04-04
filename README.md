@@ -1,4 +1,4 @@
- Logistic Regression for Car Purchase Prediction 🚗💰
+ ## Logistic Regression for Car Purchase Prediction 🚗💰
 
 ## 📌 Project Overview  
 This project applies **Logistic Regression** to predict whether a person will purchase a car based on their **age and salary**. The dataset is preprocessed, split into training and test sets, and then used to train a **Logistic Regression model**.  
@@ -45,3 +45,8 @@ Achieved high accuracy in predicting car purchases based on age and salary.
 Confusion matrix provides insight into model performance.
 
 Plots show decision boundaries for training and test datasets.
+
+## Contact 📧
+
+* Anshu Kundu
+* anshu.kundu2004@gmail.com
